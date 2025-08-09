@@ -1,4 +1,4 @@
-# 1. Introduction
+## 1. Introduction
 
 This project presents an end-to-end data analysis of the 2023 jobs database, with a focus on **data analyst roles**. Using real-world job postings, the analysis addresses critical industry questions such as the top-paying positions, essential and in-demand skills, and skillsets that correlate with higher salaries. The project demonstrates how to extract actionable insights from large datasets using SQL within a robust workflow.
 
